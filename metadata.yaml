@@ -1,5 +1,8 @@
 _repo: Ignotus-verseibol_64390
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ignotus
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ignotus
     - https://hu.wikipedia.org/wiki/Ignotus_Hug%C3%B3
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64390#Ignotus-verseibol
 gutenberg_issued: '2021-01-26'
 gutenberg_type: Text
 identifiers:
